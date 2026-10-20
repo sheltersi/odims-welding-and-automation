@@ -63,7 +63,7 @@ export default function Hero() {
                 Gate stuck open, remote not working or garage door jammed? Send us a WhatsApp with a
                 photo and we’ll respond as soon as possible.
               </p>
-              <a href="https://wa.me/27810713204" className="btn btn-primary text-sm">
+              <a href="https://wa.me/27848782778" className="btn btn-primary text-sm">
                 WhatsApp Now
               </a>
             </div>

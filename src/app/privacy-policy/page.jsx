@@ -76,7 +76,7 @@ export default function PrivacyPolicyPage() {
       contact: {
         business: "ODIMS Welding & Automation",
         email: "info@odims.co.za",
-        phone: "+27 63 326 4684",
+        phone: "+27 84 878 2778",
       },
     },
     {
@@ -183,7 +183,7 @@ export default function PrivacyPolicyPage() {
                             Phone:
                           </span>{" "}
                           <a
-                            href={`tel:${s.contact.phone}`}
+                            href={`tel:${s.contact.phone.replace(/\s/g, "")}`}
                             className="text-sky-700 underline decoration-sky-300 underline-offset-4 hover:text-sky-800"
                           >
                             {s.contact.phone}

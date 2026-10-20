@@ -73,7 +73,7 @@ export default function TermsOfServicePage() {
       contact: {
         business: "ODIMS Welding & Automation",
         email: "info@odims.co.za",
-        phone: "+27 63 326 4684",
+        phone: "+27 84 878 2778",
       },
     },
     {
@@ -169,7 +169,7 @@ export default function TermsOfServicePage() {
                         <p>
                           <span className="font-medium">Phone:</span>{" "}
                           <a
-                            href={`tel:${s.contact.phone}`}
+                            href={`tel:${s.contact.phone.replace(/\s/g, "")}`}
                             className="text-sky-700 underline underline-offset-4 hover:text-sky-800"
                           >
                             {s.contact.phone}

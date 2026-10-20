@@ -149,7 +149,7 @@ export default function ContactPage() {
       }).then((result) => {
         if (result.isConfirmed) {
           window.open(
-            `https://wa.me/27810713204?text=Hi%20ODiMs%20Team,%20I%20just%20sent%20a%20request%20for%20${payload.service}`,
+            `https://wa.me/27848782778?text=Hi%20ODiMs%20Team,%20I%20just%20sent%20a%20request%20for%20${payload.service}`,
             "_blank"
           );
         }
@@ -207,7 +207,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <p className="font-semibold text-blue-900">Phone Number</p>
-                  <p className="text-[#6E7A85]">+27 63 326 4684</p>
+                  <p className="text-[#6E7A85]">084 878 2778</p>
                 </div>
               </div>
 

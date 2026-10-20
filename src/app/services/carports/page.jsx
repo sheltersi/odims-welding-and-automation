@@ -250,7 +250,7 @@ function ServiceBlock({ icon: Icon, title, items }) {
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/27XXXXXXXXX"
+      href="https://wa.me/27848782778"
       target="_blank"
       className="fixed bottom-6 right-6 bg-green-500 text-white rounded-full p-4 shadow-xl hover:bg-green-600 transition"
     >

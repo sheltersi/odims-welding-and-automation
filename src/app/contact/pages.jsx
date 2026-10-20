@@ -10,7 +10,7 @@ export default function ContactPage() {
       <div className="grid md:grid-cols-2 gap-8">
         <div className="space-y-3 text-sm text-slate-700">
           <p>Need help with your gate, remote, garage door or welding project? Get in touch.</p>
-          <p>Phone / WhatsApp: +27 XX XXX XXXX</p>
+          <p>Phone / WhatsApp: 084 878 2778</p>
           <p>Email: info@example.com</p>
           <p>Areas: Johannesburg and surrounding suburbs.</p>
           <p>Hours: Monday–Saturday, 8:00 – 18:00 (emergency call-outs by arrangement).</p>

@@ -33,7 +33,7 @@ export default function Footer() {
                 <div className="bg-[#84D2F6] text-white p-2 rounded-full">
                   <FontAwesomeIcon icon={faPhone} />
                 </div>
-                  <p className="">+27 63 326 4684</p>
+                  <p className="">084 878 2778</p>
               </div>
               <div className="flex items-center gap-2 mt-2">
                 <div className="bg-[#84D2F6] text-white p-2 rounded-full">

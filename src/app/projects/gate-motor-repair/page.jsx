@@ -391,7 +391,7 @@ export default function GateMotorRepairDetailPage() {
                 <WhatsAppButton className="w-full" />
 
                 <a
-                  href="tel:+27000000000"
+                  href="tel:+27848782778"
                   className="w-full inline-flex items-center justify-center gap-2 px-4 py-3 rounded-xl border border-slate-200 bg-white text-sm font-bold text-slate-700 hover:border-sky-300 hover:text-sky-700 transition-all"
                 >
                   <Phone size={14} />
